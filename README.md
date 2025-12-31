@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gihan Punarji</h1>
-<h3 align="center">I am undergraduate at java institute for advanced technology</h3>
+<h3 align="center">I am the Chairman and Co-Founder of ZipZipy PVT LTD - A Software Company</h3>
 
 <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" srcset="" width="400" align="right">
 
