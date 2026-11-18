@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer & Tech Co-Founder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gihanpunarji002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gihanpunarji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://linkedin.com/in/gihan-punarji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="mailto:gihanpunarji.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 </p>
@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gihanpunarji002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gihanpunarji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihanpunarji002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
